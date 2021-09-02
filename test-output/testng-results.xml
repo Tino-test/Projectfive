@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71115" started-at="2021-08-09T12:49:54Z" finished-at="2021-08-09T12:51:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71115" started-at="2021-08-09T12:49:54Z" finished-at="2021-08-09T12:51:05Z">
+      <class name="Sample88">
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:Sample88@68be2bc2]" name="tc" duration-ms="11923" started-at="2021-08-09T12:49:54Z" data-provider="data" finished-at="2021-08-09T12:50:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cricketbats]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:Sample88@68be2bc2]" name="tc" duration-ms="20395" started-at="2021-08-09T12:50:06Z" data-provider="data" finished-at="2021-08-09T12:50:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tennisbat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:Sample88@68be2bc2]" name="tc" duration-ms="18810" started-at="2021-08-09T12:50:26Z" data-provider="data" finished-at="2021-08-09T12:50:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cricketball]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method status="PASS" signature="tc(java.lang.String)[pri:0, instance:Sample88@68be2bc2]" name="tc" duration-ms="19938" started-at="2021-08-09T12:50:45Z" data-provider="data" finished-at="2021-08-09T12:51:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tennisball]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- Sample88 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
